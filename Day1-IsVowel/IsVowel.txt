@@ -1,0 +1,30 @@
+Day 1 coding Statement: 
+
+      Write a program to identify if the character is a vowel or consonant.
+
+Description of the program: 
+
+      Take an input character from the user and check whether the given input is a vowel or consonant.
+
+Input:
+
+      Line 1 contains a character type input.
+
+Output:
+
+      Output line conatins a string with value either "Vowel" or "Consonant" or "Invalid Input".
+      
+Example 1:
+
+      Input: A
+      Output: Vowel
+
+Example 2:
+
+      Input: m
+      Output: Consonant
+
+Example 3:
+
+      Input: 3
+      Output: Invalid Input
